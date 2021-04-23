@@ -57,6 +57,6 @@
     "tui-release-notes": "git+https://github.com/nhn/toast-ui.release-notes.git"
   },
   "dependencies": {
-    "tui-calendar": "^1.12.5"
+    "tui-calendar": "git+ssh://git@github.com/thanhbk55/tui.calendar.git"
   }
 }
